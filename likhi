@@ -1,7 +1,0 @@
-To see current branch           : git branch
-TO add new branch               :git branch branch name
-To switch branches              :git checkout branch name
-To create and switch at a time  :git checkout -b branch name
-To rename branch                :git branch -m old branchname new branchname
-To clone specific branchname    : git clone -b branch name repo url
-To delete branch                 : git branch -d <branchname>
