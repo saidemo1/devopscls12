@@ -1,5 +1,4 @@
-version control system or source code management system
-maintain multiple versions in same file 
-platform independent
-free and opensource
-can handle larger projects efficiently
+version control system 
+A branch represents an independent line of development
+The git branch command lets you create list rename and delete branches
+the default branch name in git is MASTER
